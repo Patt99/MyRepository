@@ -1,0 +1,24 @@
+D:\Дети-подземелья 1-31\09_1.9_4\sesion2\sesion2\bin\Debug\sesion2.exe.config
+D:\Дети-подземелья 1-31\09_1.9_4\sesion2\sesion2\bin\Debug\sesion2.exe
+D:\Дети-подземелья 1-31\09_1.9_4\sesion2\sesion2\bin\Debug\sesion2.pdb
+D:\Дети-подземелья 1-31\09_1.9_4\sesion2\sesion2\obj\Debug\sesion2.csprojAssemblyReference.cache
+D:\Дети-подземелья 1-31\09_1.9_4\sesion2\sesion2\obj\Debug\sesion2.Properties.Resources.resources
+D:\Дети-подземелья 1-31\09_1.9_4\sesion2\sesion2\obj\Debug\sesion2.UserControl1.resources
+D:\Дети-подземелья 1-31\09_1.9_4\sesion2\sesion2\obj\Debug\sesion2.csproj.GenerateResource.cache
+D:\Дети-подземелья 1-31\09_1.9_4\sesion2\sesion2\obj\Debug\sesion2.exe
+D:\Дети-подземелья 1-31\09_1.9_4\sesion2\sesion2\obj\Debug\sesion2.pdb
+D:\Дети-подземелья 1-31\09_1.9_4\sesion2\sesion2\obj\Debug\sesion2.Form1.resources
+D:\Дети-подземелья 1-31\09_1.9_4\sesion2\sesion2\obj\Debug\sesion2.UserControl3.resources
+D:\Дети-подземелья 1-31\09_1.9_4\sesion2\sesion2\obj\Debug\sesion2.client.resources
+C:\Users\Гость\Desktop\09_1.9_4\sesion2\sesion2\bin\Debug\sesion2.exe.config
+C:\Users\Гость\Desktop\09_1.9_4\sesion2\sesion2\bin\Debug\sesion2.exe
+C:\Users\Гость\Desktop\09_1.9_4\sesion2\sesion2\bin\Debug\sesion2.pdb
+C:\Users\Гость\Desktop\09_1.9_4\sesion2\sesion2\obj\Debug\sesion2.csprojAssemblyReference.cache
+C:\Users\Гость\Desktop\09_1.9_4\sesion2\sesion2\obj\Debug\sesion2.client.resources
+C:\Users\Гость\Desktop\09_1.9_4\sesion2\sesion2\obj\Debug\sesion2.Form1.resources
+C:\Users\Гость\Desktop\09_1.9_4\sesion2\sesion2\obj\Debug\sesion2.Properties.Resources.resources
+C:\Users\Гость\Desktop\09_1.9_4\sesion2\sesion2\obj\Debug\sesion2.UserControl1.resources
+C:\Users\Гость\Desktop\09_1.9_4\sesion2\sesion2\obj\Debug\sesion2.UserControl3.resources
+C:\Users\Гость\Desktop\09_1.9_4\sesion2\sesion2\obj\Debug\sesion2.csproj.GenerateResource.cache
+C:\Users\Гость\Desktop\09_1.9_4\sesion2\sesion2\obj\Debug\sesion2.exe
+C:\Users\Гость\Desktop\09_1.9_4\sesion2\sesion2\obj\Debug\sesion2.pdb
